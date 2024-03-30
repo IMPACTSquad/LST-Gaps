@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d3b4791f-90f0-4a72-a6ce-c32525cc386b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../CaiEtAl2010/svt.py" beforeDir="false" afterPath="$PROJECT_DIR$/../CaiEtAl2010/svt.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HeEtAl2019/TVTR_ALM.py" beforeDir="false" afterPath="$PROJECT_DIR$/../HeEtAl2019/TVTR_ALM.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HeEtAl2019/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/../HeEtAl2019/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FaLRTC.py" beforeDir="false" afterPath="$PROJECT_DIR$/FaLRTC.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HaLRTC.py" beforeDir="false" afterPath="$PROJECT_DIR$/HaLRTC.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SiLRTC.py" beforeDir="false" afterPath="$PROJECT_DIR$/SiLRTC.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../YuanEtAl_main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../YuanEtAl_main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../common/image_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/../common/image_utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../common/tensor_utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/../common/tensor_utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../figures/jelly_diag_FaLRTC.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../figures/jelly_diag_FaLRTC.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../matrix_main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../matrix_main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../svt_demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/../svt_demo.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2KYI30HdTONid6nENj6iAz5GnMT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/media/imr27/SharedDataPartition/PythonProjects/LRTC"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d3b4791f-90f0-4a72-a6ce-c32525cc386b" name="Changes" comment="" />
+      <created>1674144886761</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1674144886761</updated>
+      <workItem from="1674144887855" duration="5000" />
+      <workItem from="1674144898160" duration="5000" />
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
